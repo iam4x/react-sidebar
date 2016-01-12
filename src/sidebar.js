@@ -382,4 +382,4 @@ Sidebar.defaultProps = {
   styles: {},
 };
 
-export default Sidebar;
+module.exports = Sidebar;
